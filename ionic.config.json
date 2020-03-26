@@ -1,0 +1,7 @@
+{
+  "name": "promessas",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
